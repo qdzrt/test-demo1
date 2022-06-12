@@ -1,8 +1,5 @@
 test-demo1
 
-<<<<<<< HEAD
-README
-=======
 README
 
 
@@ -10,4 +7,3 @@ README
 OK~
 
 version
->>>>>>> 95004e0... add version
